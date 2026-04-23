@@ -1,3 +1,3 @@
 # git-practice-online
 This iss my first github edit
-This change is from feature branch 
+This change is from feature branch
